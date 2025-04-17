@@ -5,7 +5,7 @@
 새로운 경험을 좋아하고 함든일이 있어도 긍정적인 힘으로 해결합니다.
 
 📌 **사용 기술 스택**  
-- Java / Spring Boot / JPA / MySQL  
+- Java / Spring Boot / JPA / MySQL /OracleDB
 - Thymeleaf / HTML / JavaScript  
 - AWS EC2 / S3 / GitHub Actions
 
