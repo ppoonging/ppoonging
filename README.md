@@ -5,9 +5,9 @@
 새로운 경험을 좋아하고 함든일이 있어도 긍정적인 힘으로 해결합니다.
 
 📌 **사용 기술 스택**  
-- Java / Spring Boot / JPA / MySQL / OracleDB
-- Thymeleaf / HTML / JavaScript  
-- AWS EC2 / S3 / GitHub Actions
+- Java / Spring Boot / JPA / MySQL / OracleDB / MariaDB
+- Thymeleaf / HTML / JavaScript /AJex 
+- AWS EC2 / GitHub Actions
 
 🧐 **현재 학습 중**  
 - React / TypeScript
@@ -29,6 +29,14 @@
 → 로그인 & OAuth2, 게시판, 날씨 API, 기분 지표를 이용해 평균 지수 기능구현,  AWS 배포
 > 🔗 [바로가기](https://github.com/ppoonqing/Diary)
 > www.chanho.site
+
+### 팀 M3 프로젝트
+#### 📘 취업 다이어리 
+> 나만의 취업 준비를 시각화하는 맞춤형 플랫폼
+→사람인 API, 관심공고 찜 기능, 달력기반 공고 시작일~마감일 시각화, 지원 /미지원 상태 등록 및 관리와 메모장
+> 🔗 [바로가기](https://github.com/kinghama82/M3-Diary.git)
+> www.spring-diary.xyz
+
 
 ---
 
